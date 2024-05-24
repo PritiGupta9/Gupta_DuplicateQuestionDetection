@@ -10,5 +10,5 @@ This project focuses on building a machine learning model to detect duplicate qu
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/surname-projecttitle.git
-   cd surname-projecttitle
+   [git clone https://github.com/yourusername/surname-projecttitle.git
+   cd surname-projecttitle](https://github.com/PritiGupta9/Gupta_DuplicateQuestionDetection/blob/main/DuplicateQuestionPair_ML.ipynb)
