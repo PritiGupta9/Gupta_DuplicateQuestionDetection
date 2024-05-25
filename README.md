@@ -6,7 +6,6 @@ This project focuses on building a machine learning model to detect duplicate qu
 - Numpy
 - Scikit-learn
 - matplotlib
-- ##Installation
 ## Installation
 1. Clone the repository:
    ```sh
