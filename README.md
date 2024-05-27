@@ -13,5 +13,6 @@ This project focuses on building a machine learning model to detect duplicate qu
    cd surname-projecttitle](https://github.com/PritiGupta9/Gupta_DuplicateQuestionDetection/blob/main/DuplicateQuestionPair_ML.ipynb)
 
 
-(https://github.com/your-username/your-repository/raw/main/path/to/your/image.png](https://github.com/PritiGupta9/Gupta_DuplicateQuestionDetection/blob/main/model_comparasion.png)
+(https://github.com/your-username/your-repository/raw/main/path/to/your/image.png]![Alt Alt ! 
+      ![Alttext](https://github.com/PritiGupta9/Gupta_DuplicateQuestionDetection/blob/main/model_comparasion.png)
 
